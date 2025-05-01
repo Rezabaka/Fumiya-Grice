@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://files.catbox.moe/iu14de.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
-    <h1 align="center">༄ᶦᶰᵈFumiyaツ</h1>
+    <h1 align="center">༄ᶦᶰᵈRezaxdesignツ</h1>
 
 
 ## Information
